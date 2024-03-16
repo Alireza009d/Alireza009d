@@ -10,7 +10,7 @@
 <br/>    
 
 <div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=true" align="center" />
+<img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=3&icon=0&pretty=true" align="center" />
 </div>  
 
 <br/>  
