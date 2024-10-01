@@ -14,6 +14,3 @@
 </div>  
 
 <br/>  
-
-<div align="center"><img src="[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?Alireza009d=anuraghazra&repo=github-readme-stats)](https://github.com/Alireza009d/Alireza009d)" align="center" /></div>  
-<br />
