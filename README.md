@@ -7,10 +7,4 @@
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alireza009d&hide_border=true&layout=compact&theme=dark" align="center" /></div>  
 
-<br/>    
-
-<div align="center">
-<img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=false" align="center" />
-</div>  
-
 <br/>  
