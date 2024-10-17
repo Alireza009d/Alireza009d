@@ -9,6 +9,6 @@
 
 <br><br><br>  
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/dh3Rwar5V2)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dh3Rwar5V2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alireza009d) 
-[![](https://visitcount.itsvg.in/api?id=alireza009d&icon=9&color=3)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=alireza009d&icon=9&color=3)](https://discord.gg/dh3Rwar5V2)
