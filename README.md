@@ -1,11 +1,11 @@
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alireza009d&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=alireza009d&theme=aqua&hide_border=true&include_all_commits=false&count_private=true" align="center" /></div>  
 
 <br/>  
 
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza009d&theme=shadow_green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alireza009d&theme=aqua&hide_border=true&include_all_commits=false&count_private=true&layout=compact" align="center" /></div>  
 
 <br>
 <hr>
