@@ -10,8 +10,14 @@
 <br>
 <hr>
 
-<p align="center">
-  <h1>سرور ماینکرافت  اوشن ام سی</h1>
+<p align="center"
+  style="
+    text-align: center;
+    color: #ffffff;
+    opacity: 1;
+    font-size: 42px;
+  ">
+  سرور ماینکرافت  اوشن ام سی
 </p>
 
 <img align="center" src="https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&">
