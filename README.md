@@ -9,10 +9,12 @@
 
 <br>
 <hr>
-<h1>OceanMc</h1>
+<center>
+<h1>سرور ماینکرافت اوشن ام سی</h1>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dh3Rwar5V2)
+<a href="https://discord.gg/dh3Rwar5V2"> <h2>لینک دیسکورد</h2> </a>
 
+</center>
 <hr>
 <br><br>  
 
