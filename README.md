@@ -35,17 +35,7 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/alireza009d/alireza009d/output/snake.svg" alt="Snake animation" />
-
-###
-
 <br> <hr> <br>
-
-###
-
-<h1 align="left"></h1>
 
 ###
 
@@ -67,7 +57,7 @@
 
 ###
 
-<h1 align="left"></h1>
+<br> <hr> <br>
 
 ###
 
@@ -77,8 +67,3 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/alireza009d/count.svg?"  />
-</div>
-
-###
