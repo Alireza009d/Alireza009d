@@ -9,12 +9,10 @@
 
 <br>
 <hr>
-<center>
-<h1>سرور ماینکرافت اوشن ام سی</h1>
+<h1 align="center">سرور ماینکرافت اوشن ام سی</h1>
 
-<a href="https://discord.gg/dh3Rwar5V2"> <h2>لینک دیسکورد</h2> </a>
+<a href="https://discord.gg/dh3Rwar5V2" align="center"> <h2>لینک دیسکورد</h2> </a>
 
-</center>
 <hr>
 <br><br>  
 
