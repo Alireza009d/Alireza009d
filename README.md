@@ -28,10 +28,10 @@
 
 ###
 
-<br> <hr> <br>
+<br>
 
 ###
-
+## 🌊 OceanMc
 <p align="center" style="font-weight: bold;">سرور ماینکرافت اوشن ام سی</p>
 
 ###
@@ -49,7 +49,5 @@
 </div>
 
 ###
-
-<br> <hr> <br>
 
 ###
