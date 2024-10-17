@@ -45,7 +45,11 @@
 
 ###
 
-<h1 align="center">سرور ماینکرافت اوشن ام سی</h1>
+<h1 align="left"></h1>
+
+###
+
+<p align="center">سرور ماینکرافت اوشن ام سی</p>
 
 ###
 
@@ -64,5 +68,17 @@
 ###
 
 <h1 align="left"></h1>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alireza009d.alireza009d&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/alireza009d/count.svg?"  />
+</div>
 
 ###
