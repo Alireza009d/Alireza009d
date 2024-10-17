@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alireza009d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=alireza009d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=alireza009d&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=alireza009d&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> 
+<br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alireza009d&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="110" alt="languages graph"  />
 </div>
 
@@ -35,13 +35,7 @@
 
 ###
 
-<img align="right" height="150" src="https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&"  />
-
-###
-
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/alireza009d/alireza009d/output/snake.svg" alt="Snake animation" />
 
 ###
 
