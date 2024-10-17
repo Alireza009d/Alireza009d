@@ -11,16 +11,16 @@
 ###
 
 <div align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=false" align="center" />
+</div>
+
+<div align="center">
   <a href="https://discord.gg/dh3Rwar5V2" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://www.linkedin.com/in/alireza009d/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=false" align="center" />
 </div>
 
 ###
