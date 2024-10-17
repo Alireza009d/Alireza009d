@@ -9,9 +9,14 @@
 
 <br>
 <hr>
+
 <p align="center" style="size: 20px">سرور ماینکرافت اوشن ام سی</p>
 
-<a href="https://discord.gg/dh3Rwar5V2"> <p align="center" style="size: 15px">لینک دیسکورد</p> </a>
+[![OceanMc](https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&)](https://discord.gg/dh3Rwar5V2)
+
+<p align="center" style="size: 15px">لینک دیسکورد</p>
+
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dh3Rwar5V2)
 
 <hr>
 <br><br>  
