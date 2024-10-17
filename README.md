@@ -14,7 +14,6 @@
   style="
     text-align: center;
     color: #ffffff;
-    opacity: 1;
     font-size: 42px;
   ">
   سرور ماینکرافت  اوشن ام سی
