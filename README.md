@@ -10,7 +10,7 @@
 <br>
 <hr>
 
-<p align="center" style="size: 20px">سرور ماینکرافت اوشن ام سی</p>
+<p align="center" style="size: 20px" font-family: Impact, sans-serif;>Ocean Mc</p>
 
 <img align="center" src="https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&">
 
