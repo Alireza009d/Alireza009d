@@ -43,7 +43,7 @@
 
 ###
 
-<p align="center">سرور ماینکرافت اوشن ام سی</p>
+<p align="center" style="font-weight: bold;">سرور ماینکرافت اوشن ام سی</p>
 
 ###
 
