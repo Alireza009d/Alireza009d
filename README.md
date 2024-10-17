@@ -22,8 +22,10 @@
 <img align="center" src="https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&">
 
 <p align="center" style="size: 15px">لینک دیسکورد</p>
+<a align="center" href="https://discord.gg/dh3Rwar5V2">
+  <img align="center" src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white">
+</a>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/dh3Rwar5V2)
 
 <hr>
 <br><br>  
