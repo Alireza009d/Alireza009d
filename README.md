@@ -62,8 +62,8 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=alireza009d.alireza009d&"  />
-</div>
+  <img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=false" align="center" />
+</div> 
 
 ###
 
