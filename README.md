@@ -10,7 +10,6 @@
 
 ###
 
-[![Views](https://komarev.com/ghpvc/?username=alireza009d&color=fe9b2a&style=for-the-badge)](https://github.com/Alireza009d)
-
+<img src="https://komarev.com/ghpvc/?username=alireza009d&color=fe9b2a&style=for-the-badge">
 
 <br>
