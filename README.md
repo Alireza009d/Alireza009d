@@ -30,18 +30,6 @@
 
 <br>
 
-###
-## 🌊 OceanMc
-<p align="center" style="font-weight: bold;">سرور ماینکرافت اوشن ام سی</p>
-
-###
-
-<div align="center">
-  <img height="245" src="https://cdn.discordapp.com/attachments/1227218621604827243/1291154117871276055/OceanMcLogo.png?ex=67122e3a&is=6710dcba&hm=3a470bd849a37367dfe5c5fe7269d16336adbf0ecf0fa9dabe4eb7421e0fcafe&"  />
-</div>
-
-###
-
 <div align="center">
   <a href="https://discord.gg/dh3Rwar5V2" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
