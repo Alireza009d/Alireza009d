@@ -10,8 +10,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Alireza009d&label=Views&color=2&icon=0&pretty=false" align="center" />
-</div>
+[![Views](https://komarev.com/ghpvc/?username=alireza009d&color=fe9b2a&style=for-the-badge)](https://github.com/Alireza009d)
+
 
 <br>
