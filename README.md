@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://stats.maximjsx.com/api?username=Alireza009d&title=&description=Alireza009&theme=forest&hide_border=false&height=10&footer=&include_all_commits=true&update=1&border_radius=15">
+<img src="https://stats.maximjsx.com/api?username=Alireza009d&title=&description=Alireza009&theme=forest&hide_border=false&height=10&include_all_commits=true&border_radius=15">
   </a>
 </div>
 
